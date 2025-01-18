@@ -1,7 +1,14 @@
 {
-    "lolicon": "https://blog.fishboom.top/post/my/lolicon/",
-    "we-ten": "https://blog.fishboom.top/post/my/we-ten/",
-    "欸，你瞧，这是啥": "https://blog.fishboom.top/post/my/we-ten/",
-    "bc6aacc5-0370-43a9-bb37-f2dd0be594c0": "https://blog.fishboom.top/post/my/lolicon/",
-    "blog": "https://blog.fishboom.top/"
+    "lolicon": {
+        "link": "https://blog.fishboom.top/post/my/lolicon/",
+        "etime": "2025-1-18-13"
+    },
+    "we-ten": {
+        "link": "https://blog.fishboom.top/post/my/we-ten/",
+        "etime": ""
+    },
+    "欸，你瞧，这是啥": {
+        "link": "https://blog.fishboom.top/post/my/we-ten/",
+        "etime": ""
+    }
 }
